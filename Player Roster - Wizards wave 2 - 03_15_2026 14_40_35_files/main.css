@@ -1,0 +1,35 @@
+body.report {
+    font-family: verdana, arial, helvetica, sans-serif, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "MS PGothic", "Meyrio";
+}
+
+table.report {
+    font-family: verdana, arial, helvetica, sans-serif, "Hiragino Kaku Gothic ProN", "Hiragino Sans", "MS PGothic", "Meyrio";
+    padding: 0;
+    border-spacing: 0;
+    border-collapse: collapse;
+}
+
+table.border, table.border td, table.border th {
+    border: 1px inset black;
+}
+
+table.footer {
+    font-family: verdana, arial, helvetica, sans-serif;
+    border-width: 0;
+    padding: 0;
+    border-spacing: 0;
+}
+
+td.footer {
+    font-family: verdana, arial, helvetica, sans-serif;
+    border: 0px;
+    background: white;
+    color: black;
+}
+
+th.footer {
+    font-family: verdana, arial, helvetica, sans-serif;
+    border: 0px;
+    background: white;
+    color: black;
+}
